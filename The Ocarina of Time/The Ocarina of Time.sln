@@ -1,11 +1,11 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{C2341A3C-000A-5689-ADCE-0A661EC26807}") = "The Ocarina of Time", "Assembly-CSharp-firstpass.csproj", "{35801F84-FFA6-C7FB-1FA0-7358FAC90147}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{35801F84-FFA6-C7FB-1FA0-7358FAC90147}"
 EndProject
-Project("{C2341A3C-000A-5689-ADCE-0A661EC26807}") = "The Ocarina of Time", "Assembly-CSharp.csproj", "{0CEC431A-EE3F-C587-1074-BC4261C55448}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0CEC431A-EE3F-C587-1074-BC4261C55448}"
 EndProject
-Project("{C2341A3C-000A-5689-ADCE-0A661EC26807}") = "The Ocarina of Time", "Assembly-CSharp-Editor.csproj", "{B7EC43CA-DCBA-7084-0726-FF58BED33CE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{B7EC43CA-DCBA-7084-0726-FF58BED33CE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
